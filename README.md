@@ -1,0 +1,1 @@
+In this project we have created prototype model for supply chain management using block chain technology we have developed web application using block chain technology to help the farmer to increase the price of product and their revenue.
